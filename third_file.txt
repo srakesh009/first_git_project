@@ -1,0 +1,4 @@
+1.	To see where git is installed- which git
+2.	To see version of git- git --version
+3.	For git configuration at user level use, git config --global “set the configurations”
+4.	To view the configurations-  git config --list
