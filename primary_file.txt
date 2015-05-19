@@ -1,4 +1,4 @@
 Hello,I am Rakesh.What is your name?
 I am working with TCS.
-I am currently working on Angular JS.
-I am learning it.
+I am currently working on "Angular JS".
+I am "learning" it.
